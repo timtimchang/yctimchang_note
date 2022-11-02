@@ -19,7 +19,7 @@
 
 [Document Dewarping with Control Points](https://github.com/timtimchang/yctimchang_note/tree/main/Paper%20Explore/DocTr%20Document%20Image%20Transformer%20for%20Geometric%20Unwarping)
 
-[Dynamic Low-Resolution Distillation for Cost-Efficient End-to-End Text Spotting[Entropy Minimization vs. Diversity Maximization](https://github.com/timtimchang/yctimchang_note/tree/main/Paper%20Explore/Dynamic%20Low-Resolution%20Distillation%20for%20Cost-Efficient%20End-to-End%20Text%20Spotting)
+[Dynamic Low-Resolution Distillation for Cost-Efficient End-to-End Text Spotting Entropy Minimization vs. Diversity Maximization](https://github.com/timtimchang/yctimchang_note/tree/main/Paper%20Explore/Dynamic%20Low-Resolution%20Distillation%20for%20Cost-Efficient%20End-to-End%20Text%20Spotting)
 
 [Few-shot Compositional Font Generation with Dual Memory](https://github.com/timtimchang/yctimchang_note/tree/main/Paper%20Explore/Few-shot%20Compositional%20Font%20Generation%20with%20Dual%20Memory)
 

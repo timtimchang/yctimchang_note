@@ -60,3 +60,11 @@
 [THE CURIOUS CASE OF NEURAL TEXT DeGENERATION](https://github.com/timtimchang/yctimchang_note/tree/main/Paper%20Explore/THE%20CURIOUS%20CASE%20OF%20NEURAL%20TEXT%20DeGENERATION)
 
 [Unified Contrastive Learning in Image-Text-Label Space](https://github.com/timtimchang/yctimchang_note/tree/main/Paper%20Explore/Unified%20Contrastive%20Learning%20in%20Image-Text-Label%20Space)
+
+[Fintech Survey](https://github.com/timtimchang/yctimchang_note/tree/main/Fintech%20Survey)
+
+[ICIP 2022 notes](https://github.com/timtimchang/yctimchang_note/tree/main/ICIP%202022%20notes)
+
+[Interspeech 2022 notes](https://github.com/timtimchang/yctimchang_note/tree/main/Interspeech%202022%20notes)
+
+[optimization workshop by yen-cheng](Optimization Workshop)

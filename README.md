@@ -61,10 +61,11 @@
 
 [Unified Contrastive Learning in Image-Text-Label Space](https://github.com/timtimchang/yctimchang_note/tree/main/Paper%20Explore/Unified%20Contrastive%20Learning%20in%20Image-Text-Label%20Space)
 
+## Notes & Workshop
 [Fintech Survey](https://github.com/timtimchang/yctimchang_note/tree/main/Fintech%20Survey)
 
 [ICIP 2022 notes](https://github.com/timtimchang/yctimchang_note/tree/main/ICIP%202022%20notes)
 
 [Interspeech 2022 notes](https://github.com/timtimchang/yctimchang_note/tree/main/Interspeech%202022%20notes)
 
-[optimization workshop by yen-cheng](Optimization Workshop)
+[optimization workshop by yen-cheng](https://github.com/timtimchang/yctimchang_note/tree/main/Optimization%20Workshop)
